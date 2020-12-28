@@ -1,2 +1,2 @@
-# numpy-1
-numpy assignment 1
+# numpy assignments
+numpy assignments and tasks
